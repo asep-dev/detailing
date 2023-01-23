@@ -5,7 +5,7 @@
             <div class="row">
               <div class="col-md-4 mb-4 mb-lg-0">
                 <div class="item_about">
-                  <a class="logo" href="agency.html">
+                  <a class="logo" href="<?= base_url() ?>">
                     <img class="w-100" src="<?= base_url() ?>public/image/default/logo.png" alt="logo" style="max-width:100px;" />
                   </a>
                   <p>
