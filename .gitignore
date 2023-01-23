@@ -3,4 +3,5 @@ composer.lock
 readme.rst
 license.txt
 application/config/database.php
-# public/image/
+public/image/
+.editorconfig
