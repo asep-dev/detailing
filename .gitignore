@@ -5,3 +5,4 @@ license.txt
 application/config/database.php
 public/image/
 .editorconfig
+vendor/
