@@ -224,7 +224,7 @@
                             <h2>Need help? or <br>just want to say hello?</h2>
                             <p>
                                 Please fill out the form. You can also email directly to our support team click
-                            <a class="c-orange" href="mailto:cs@theroom.id">support@theroom.id</a>.
+                            <a class="c-orange" href="mailto:support@theroom.id">support@theroom.id</a>.
                             </p>
                         </div>
                     </div>

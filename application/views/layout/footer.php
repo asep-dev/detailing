@@ -33,7 +33,6 @@
                 <div class="item_subscribe">
                   <h4>Contact Us</h4>
                   <p class="mb-0">Email : support@theroom.id</p>
-                  <p class="mb-0">Phone : +62 822-1111-0459</p>
                   <h4 class="mt-3">Location Country</h4>
                   <img class="w-100 rounded" src="<?= base_url() ?>public/image/default/indonesia.jpg" alt="logo" style="max-width:80px;" />
                   <img class="w-100 rounded" src="<?= base_url() ?>public/image/default/usa.jpg" alt="logo" style="max-width:80px;" />
