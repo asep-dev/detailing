@@ -6,24 +6,24 @@
               <div class="col-md-4 mb-4 mb-lg-0">
                 <div class="item_about">
                   <a class="logo" href="<?= base_url() ?>">
-                    <img width="100" height="100" class="w-100 h-100" src="<?= base_url() ?>public/image/default/logo-bunglon-steel.webp" alt="logo" style="max-width:180px;" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100" src="<?= base_url() ?>public/image/default/logo-bunglon-steel.webp" alt="logo bunglon steel" style="max-width:180px;" />
                   </a>
                   <p>
                     Professional expert team specialized in steel structure and steel detailing engineer with more than 10 years experience.
                   </p>
                   <div class="address">
                     <a href="https://tekla.com">
-                      <img width="100" height="100" class="w-100 h-100 mr-2" src="<?= base_url() ?>public/image/default/autodesk.webp" alt="logo" style="max-width:100px;" />
+                      <img loading="lazy" width="100" height="100" class="w-100 h-100 mr-2" src="<?= base_url() ?>public/image/default/autodesk.webp" alt="logo autodesk" style="max-width:100px;" />
                     </a>
                     <a href="https://autodesk.com">
-                      <img width="100" height="100" class="w-100 h-100" src=" <?= base_url() ?>public/image/default/tekla.webp" alt="logo" style="max-width:100px;" />
+                      <img loading="lazy" width="100" height="100" class="w-100 h-100" src=" <?= base_url() ?>public/image/default/tekla.webp" alt="logo tekla" style="max-width:100px;" />
                     </a>
                   </div>
                 </div>
               </div>
               <div class="col-md-3">
                 <div class="item_links">
-                  <h4>Alternative Link</h4>
+                  <span class="heading">Alternative Link</span>
                   <a class="nav-link" href="<?= base_url() ?>#steel-structural-detailing">Steel Structural Detailing</a>
                   <a class="nav-link" href="<?= base_url() ?>#miscellaneous-erection">Miscellaneous Erection</a>
                   <a class="nav-link" href="<?= base_url() ?>#fabrication-shop-drawings">Fabrication Shop Drawings</a>
@@ -31,12 +31,12 @@
               </div>
               <div class="col-md-5 mt-4 mt-lg-0">
                 <div class="item_subscribe">
-                  <h4>Contact Us</h4>
+                  <span class="heading">Contact Us</span>
                   <p class="mb-0">Email : support@theroom.id</p>
-                  <h4 class="mt-3">Location Country</h4>
-                  <img width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/indonesia.webp" alt="logo" style="max-width:80px;" />
-                  <img width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/usa.webp" alt="logo" style="max-width:80px;" />
-                  <img width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/australia.webp" alt="logo" style="max-width:80px;" />
+                  <span class="mt-3 heading">Location Country</span>
+                  <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/indonesia.webp" alt="logo indonesia" style="max-width:80px;" />
+                  <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/usa.webp" alt="logo amerika" style="max-width:80px;" />
+                  <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/australia.webp" alt="logo australia" style="max-width:80px;" />
                 </div>
               </div>
             </div>

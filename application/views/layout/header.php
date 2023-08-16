@@ -61,6 +61,13 @@
         .c-bunglon {
             color: #2e8c33 !important;
         }
+
+        .defalut-footer .heading {
+            display: block;
+            font-size: 18px;
+            font-weight: 500;
+            margin-bottom: 1.875rem;
+        }
     </style>
 </head>
 
@@ -73,7 +80,7 @@
                     <!-- navbar -->
                     <nav class="navbar navbar-expand-lg navbar-light px-sm-0">
                         <a class="navbar-brand" href="<?= base_url() ?>">
-                            <img class="w-100" src="<?= base_url() ?>public/image/default/logo-bunglon-steel.webp" alt="logo" />
+                            <img width="100" height="100" class="w-100 h-100" src="<?= base_url() ?>public/image/default/logo-bunglon-steel.webp" alt="logo" />
                         </a>
 
                         <button class="navbar-toggler menu ripplemenu" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
