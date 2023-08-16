@@ -12,7 +12,7 @@
                     </div>
                 </div>
                 <div class="col-md-7">
-                    <img loading="lazy" width="100" height="300" class="ill_05 h-100 my-0" src="<?= base_url() ?>public/image/default/bg.webp" alt="bunglon steel detailing expert" />
+                    <img width="100" height="300" class="ill_05 h-100 my-0" src="<?= base_url() ?>public/image/default/bg.webp" alt="bunglon steel detailing expert" />
                 </div>
             </div>
         </div>
@@ -224,7 +224,7 @@
                         <h2>Need help? or <br>just want to say hello?</h2>
                         <p>
                             Please fill out the form. You can also email directly to our support team click
-                            <a class="c-bunglon" href="mailto:support@theroom.id">support@theroom.id</a>.
+                            <a class="c-bunglon" href="mailto:support@theroom.id" style="text-decoration: underline;">support@theroom.id</a>.
                         </p>
                     </div>
                 </div>
