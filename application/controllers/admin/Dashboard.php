@@ -1,8 +1,9 @@
 <?php
 
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
-class Dashboard extends CI_Controller {
+class Dashboard extends CI_Controller
+{
 
     public function __construct()
     {
@@ -10,7 +11,7 @@ class Dashboard extends CI_Controller {
         check_login();
         $this->load->model('Mail_model');
     }
-    
+
 
     public function index()
     {
@@ -19,7 +20,6 @@ class Dashboard extends CI_Controller {
         $data['title'] = 'Dashboard';
         render_template_admin('backend/dashboard', $data);
     }
-
 }
 
 /* End of file Dashboard.php */
