@@ -68,6 +68,10 @@
             font-weight: 500;
             margin-bottom: 1.875rem;
         }
+
+        .banner_demo7{
+            background-color : #f3f3f3 !important;
+        }
     </style>
 </head>
 

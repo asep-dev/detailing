@@ -36,7 +36,7 @@
                   <span class="mt-3 heading">Location Country</span>
                   <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/indonesia.webp" alt="logo indonesia" style="max-width:80px;" />
                   <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/usa.webp" alt="logo amerika" style="max-width:80px;" />
-                  <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/australia.webp" alt="logo australia" style="max-width:80px;" />
+                  <!-- <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/australia.webp" alt="logo australia" style="max-width:80px;" /> -->
                 </div>
               </div>
             </div>

@@ -7,7 +7,7 @@
                 <div class="col-md-5 my-auto">
                     <div class="banner_title mb-0">
                         <h1>Wellcome to <br>Bunglon Steel</h1>
-                        <p style="color:#5a5a5a;">Bunglon Steel is a specialized company producing detailed Structural Steel and Miscellaneous Erection and Fabrication Shop Drawings located in Depok, Indonesia.</p>
+                        <p style="color:#5a5a5a;">Bunglon Steel is a specialized company producing detailed Structural Steel and Miscellaneous Erection and Fabrication Shop Drawings located in Indonesia.</p>
                         <a href="#services" class="btn scale btn_sm_primary bg-bunglon c-white effect-letter rounded-8">Our Services</a>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
                         <div class="col-md-6 col-6">
                             <div class="item_logo item__counter" data-aos="fade-up" data-aos-delay="0">
                                 <div class="count display-4 font-weight-bold">
-                                    <span class="counter">1223</span>
+                                    <span class="counter">200</span>
                                     <sup style="margin-left: -10px;">+</sup>
                                 </div>
                                 <p class="c-gray">Project Completed</p>
@@ -153,49 +153,49 @@
             </div>
             <div class="row no-gutters">
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/1-min.webp" alt="project steel detailing 1" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/15.webp" alt="project steel detailing 1" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/2-min.webp" alt="project steel detailing 2" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/14.webp" alt="project steel detailing 2" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/3-min.webp" alt="project steel detailing 3" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/13.webp" alt="project steel detailing 3" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/4-min.webp" alt="project steel detailing 4" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/12.webp" alt="project steel detailing 4" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/5-min.webp" alt="project steel detailing 5" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/11.webp" alt="project steel detailing 5" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/6-min.webp" alt="project steel detailing 6" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/10.webp" alt="project steel detailing 6" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/7-min.webp" alt="project steel detailing 7" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/9.webp" alt="project steel detailing 7" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/8-min.webp" alt="project steel detailing 8" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/8.webp" alt="project steel detailing 8" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/10-min.webp" alt="project steel detailing 9" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/7.webp" alt="project steel detailing 9" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/11-min.webp" alt="project steel detailing 10" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/6.webp" alt="project steel detailing 10" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/12-min.webp" alt="project steel detailing 11" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/5.webp" alt="project steel detailing 11" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/13-min.webp" alt="project steel detailing 12" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/4.webp" alt="project steel detailing 12" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/14-min.webp" alt="project steel detailing 13" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/3.webp" alt="project steel detailing 13" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/15-min.webp" alt="project steel detailing 14" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/2.webp" alt="project steel detailing 14" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
-                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/16-min.webp" alt="project steel detailing 15" />
+                    <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/1.webp" alt="project steel detailing 15" />
                 </div>
                 <div class="col-md-4 p-2 image-projects" style="display:none;">
                     <img loading="lazy" width="100" height="100" class="w-100 h-100 rounded" src="<?= base_url() ?>public/image/default/17-min.webp" alt="project steel detailing 16" />
