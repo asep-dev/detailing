@@ -7,7 +7,7 @@
                 <div class="col-md-5 my-auto">
                     <div class="banner_title mb-0">
                         <h1>Wellcome to <br>Bunglon Steel</h1>
-                        <p style="color:#5a5a5a;">Bunglon Steel is a specialized company producing detailed Structural Steel and Miscellaneous Erection and Fabrication Shop Drawings located in Indonesia.</p>
+                        <p style="color:#5a5a5a;">Bunglon Steel is a specialist company in the field of Structural Steel Engineering, Miscellaneous Erection and Fabrication Shop Drawings located in Indonesia.</p>
                         <a href="#services" class="btn scale btn_sm_primary bg-bunglon c-white effect-letter rounded-8">Our Services</a>
                     </div>
                 </div>
