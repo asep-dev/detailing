@@ -38,7 +38,7 @@
                         <div class="col-md-6 col-6">
                             <div class="item_logo item__counter" data-aos="fade-up" data-aos-delay="0">
                                 <div class="count display-4 font-weight-bold">
-                                    <span class="counter">1000+</span>
+                                    <span class="counter">1000</span>
                                     <sup style="margin-left: -10px;">+</sup>
                                 </div>
                                 <p class="c-gray">Project Completed</p>
