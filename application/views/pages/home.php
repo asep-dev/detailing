@@ -28,8 +28,8 @@
                         <h2>Using Our Experience To Make Your Designers Experience Brighter
                         </h2>
                         <p>
-                            Our skilled and experienced steel detailers, designers and engineers provide our clients with an efficient product and cost effective steel detailing services.
-                            Our goal is maintain a lasting business relationships with our clients providing a high quality product and on time deliveries.
+                            Our skilled and experienced steel detailers, designers and engineers provide efficient and cost-effective services to our clients
+                            Our goal is to maintain lasting business relationships with our clients by providing high quality service and on-time delivery.
                         </p>
                     </div>
                 </div>
